@@ -1,0 +1,15 @@
+.header {
+    color: red;
+}
+
+.paragraph1 {
+    color: #a42423;
+}
+
+.paragraph2 {
+    color: #00008f;
+}
+
+* {
+    background: #faebd6;
+}
